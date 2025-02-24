@@ -15,14 +15,14 @@ listaEncadeada/
 
 ## Funcionalidades
 
-Criar uma lista.
-Verificar se a lista está vazia.
-Obter o tamanho atual da lista.
-Receber o valor de uma posição específica.
-Alterar o valor de uma posição específica.
-Inserir um valor em uma posição específica.
-Remover um valor de uma posição específica.
-Exibir todos os elementos da lista.
+1. Criar uma lista.
+2. Verificar se a lista está vazia.
+3. Obter o tamanho atual da lista.
+4. Receber o valor de uma posição específica.
+5. Alterar o valor de uma posição específica.
+6. Inserir um valor em uma posição específica.
+7. Remover um valor de uma posição específica.
+8. Exibir todos os elementos da lista.
 
 ## Compilar
 
@@ -30,7 +30,7 @@ Exibir todos os elementos da lista.
 
 make
 
-`Execute o comando para executar`:
+`Execute o comando`:
 
 .\build\iniciar.exe
 
