@@ -34,6 +34,15 @@ make
 
 .\build\iniciar.exe
 
+## Ou use a compilação direta o comando: 
+
+```bash
+g++ src/*.cpp -Iinclude -o iniciar
+
+iniciar
+````
+
+
 ## Exemplo de Uso
 
 ## Saída com caso teste no arquivo main
