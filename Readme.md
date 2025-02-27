@@ -34,7 +34,7 @@ make
 
 .\build\iniciar.exe
 
-## Ou use a compilação direta o comando: 
+## Ou use a compilação direta com o comando: 
 
 ```bash
 g++ src/*.cpp -Iinclude -o iniciar
